@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=34C9EE&text=WEBSITE%20RENEWAL%20PROJECT%20&animation=twinkling&fontSize=20&fontAlignY=33&fontAlign=80&height=250&fontColor=d6ace6&desc=%20미니%20프로젝트&descAlignY=55&descAlign=70&descSize=75&rotate=-6
 )
 
-- 배포 URL :  https://khsysr.github.io/3_TeamProject/](https://khsysr.github.io/2-1_Project](https://khsysr.github.io/2-2_Project
+- 배포 URL : https://khsysr.github.io/2-2_Project
 
 ## 🙋 프로젝트 소개
 
